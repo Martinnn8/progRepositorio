@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecetasSimulacro", "RecetasSimulacro.csproj", "{9BFF0C8D-358C-4817-88E8-D4A24E30FA4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BFF0C8D-358C-4817-88E8-D4A24E30FA4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BFF0C8D-358C-4817-88E8-D4A24E30FA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BFF0C8D-358C-4817-88E8-D4A24E30FA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BFF0C8D-358C-4817-88E8-D4A24E30FA4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CAA8DDF-1A63-44A0-B9F6-DB6CAE18C479}
+	EndGlobalSection
+EndGlobal
